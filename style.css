@@ -73,7 +73,7 @@ nav ul li a:hover::after{
 
 /* -----------------about---------------- */
 #about{
-    padding: 80px 0px;
+    padding: 160px 0px;
     color: #ababab;
 }
 .row{
@@ -98,6 +98,7 @@ nav ul li a:hover::after{
     color: #fff;
 }
 .tab-titles{
+    color: white;
     display: flex;
     margin: 20px 0 40px;
 }
@@ -137,7 +138,7 @@ nav ul li a:hover::after{
 }
 /* services */
 #services{
-    padding: 30px 0;
+    padding: 200px 0;
 }
 
 .services-list{
